@@ -7,7 +7,7 @@ this is a mini project that depicts:
 .Exams
 .Results
 
-FEATURES
+Features:
 .Table creation
 .Sample data insertion
 .Trigger to prevent duplicate exam entries 
@@ -15,13 +15,13 @@ FEATURES
 .Using Function for grade calculation
 .Viewing enrollement data
 
-HOW TO RUN
+How To Run:
 .Open MySQL Workbench
 .Run student-course-enrollement-project.sql
 .Execute:CALL
    get-student-report(1);
 
-OUTPUT
+Output:
 . View student course enrollement data
 .Get student marks and grades
 .
